@@ -1,11 +1,11 @@
 <h3 class="heading-element" dir="auto"> Hi there 👋🏼 </h3>
 
-<h2 class="heading-element" dir="auto"> I'm Leonard de la Paz Portal 👩🏻‍💻 </h2>
+<h2 class="heading-element" dir="auto"> I'm Leonard de la Paz Portal 👨‍💻 </h2>
 
 <h3 class="heading-element" dir="auto"> Software Engineer | Frontend Developer | Tech Enthusias </h3>
 
 <a href="https://linktr.ee/bianchistories" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/PORTOLIO-LEO.CORP-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white&logoSize=auto&labelColor=grey&color=lightslategray"></a> <a href="https://www.linkedin.com/in/luishijars/" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/CONNECT-LINKEDIN-brightgreen?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&labelColor=grey&color=blue"></a>
-<a href="https://t.me/hijarstories" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/CHAT-TELEGRAM-brightgreen?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto&labelColor=grey&color=%23007fff"></a> <a href="leonardhijar@gmail.com" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/CONTACT-EMAIL-brightgreen?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&labelColor=grey&color=red"></a>
+<a href="https://t.me/hijarstories" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/CHAT-TELEGRAM-brightgreen?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto&labelColor=grey&color=%23007fff"></a> <a href="mailto:leonardhijar@gmail.com" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/CONTACT-EMAIL-brightgreen?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&labelColor=grey&color=red"></a>
 
 
 <animated-image data-catalyst="" style="float: right; width: 200px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ac6ed34c5a02f4206c4a696a0eb1883ed121e60c26fbe958eeb88c19649c7966/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f587935346f583537304978576e4149356e522f67697068792e676966" data-target="animated-image.originalLink"><img align="right" alt="GIF" height="190px" src="https://camo.githubusercontent.com/ac6ed34c5a02f4206c4a696a0eb1883ed121e60c26fbe958eeb88c19649c7966/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f587935346f583537304978576e4149356e522f67697068792e676966" data-canonical-src="https://media.giphy.com/media/Xy54oX570IxWnAI5nR/giphy.gif" style="max-width: 100%; height: auto; max-height: 190px; display: inline-block;" data-target="animated-image.originalImage"></a>
