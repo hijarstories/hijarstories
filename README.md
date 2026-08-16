@@ -63,20 +63,37 @@
 
 <hr></hr>
 
+<h3 class="heading-element" dir="auto"> 🛠 Tech Skills </h3>
 
+<li>💻 C# | Java | C++ | Python | Go | HTML | CSS | JavaScript | TypeScript | Vue | Nuxt | React | Next | Astro | Svelte</li>
+<li>💻 &.NET framework | ASP.NET Core | MySQL | PostgreSQL | MongoDB | Node.js | Express.js | REST | GraphQL | Docker</li>
+<li>☁️ Vercel | CI/CD | Supabase | AWS | Firebase | Cloudflare</li>
+<li>⚙️ Visual Studio Code | Visual Studio | pnpm | Git | Github</li>
+<li>🎨 Tailwind | Motion | Figma | Material icons | Canva | Framer</li>
 
+<hr></hr>
 
+<h3 class="heading-element" dir="auto"> 📊 GitHub Stats </h3>
 
+<hr></hr>
 
+<h3 class="heading-element" dir="auto"> 🌐 Let's Connect </h3>
 
+I'm always excited to collaborate on interesting projects or discuss new technologies!
 
+**Find me around the web:**
 
+<hr></hr>
 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2436d81233f5792fd0f264fd57041b0e01e7d27b18bdbb0f61303e4af59e6c9e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d362c31312c3230266865696768743d3130302673656374696f6e3d666f6f746572"><img src="https://camo.githubusercontent.com/2436d81233f5792fd0f264fd57041b0e01e7d27b18bdbb0f61303e4af59e6c9e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d362c31312c3230266865696768743d3130302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" style="max-width: 100%;"></a>
 
+<h3> 💖 Thank you for visiting! </h3>
 
+"The best way to predict the future is to create it."
 
+<p dir="auto"><em>"The best way to predict the future is to create it."</em></p> 
 
-
+<em>Made with 💜 by <a href="https://github.com/hijarstories">Leonard Cárdenas</a></em>
 
 
 
