@@ -67,17 +67,9 @@ const WhatDrivesMe = {
 
 <h3 class="heading-element" dir="auto"> 📊 GitHub Stats </h3>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="example/dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="example/light.svg"
-  />
-  <img alt="Breakout Game" src="example/light.svg" />
-</picture>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hijarstories&theme=soft-green)](https://git.io/streak-stats)
+
+[![Leonard's Corporation github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hijarstories&theme=github-compact)](https://github.com/hijarstories/github-readme-activity-graph)
 
 ###
 
