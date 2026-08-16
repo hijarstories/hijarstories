@@ -4,6 +4,10 @@
 
 <h3 class="heading-element" dir="auto"> Software Engineer | Frontend Developer | Tech Enthusias </h3>
 
+![Static Badge](https://img.shields.io/badge/PORTOLIO-LEO.CORP-brightgreen?style=for-the-badge&logo=web&logoColor=white&logoSize=auto&label=healthiness&labelColor=grey&color=blue&link=https%3A%2F%2Flinktr.ee%2Fleonardcorp&link=https%3A%2F%2Flinktr.ee%2Fleonardcorp)
+
+
+
 <img alt="Static Badge" src="https://img.shields.io/badge/PORTFOLIO-leo.corp-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white&logoSize=auto&labelColor=%23808080&color=grey&link=https%3A%2F%2Flinktr.ee%2Fleonardcorp"> <img alt="Static Badge" src="https://img.shields.io/badge/CONNECT-LINKEDIN-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto&labelColor=%23808080&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fluishijars%2F"> <img alt="Static Badge" src="https://img.shields.io/badge/CHAT-TELEGRAM-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto&labelColor=%23808080&color=%23007fff&link=https%3A%2F%2Ft.me%2FHijarStories"> <img alt="Static Badge" src="https://img.shields.io/badge/CONTACT-EMAIL-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto&labelColor=%23808080&color=red&link=leonardhijar%40gmail.com"> 
 
 
