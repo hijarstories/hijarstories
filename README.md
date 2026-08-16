@@ -29,13 +29,14 @@
 <hr></hr>
 
 <h3 class="heading-element" dir="auto"> 🤓 About Me </h3>
-
+<ul dir="auto">
 <li>⭐ &nbsp; <strong>Web developer</strong> expert in JavaScript.</li>
 <li>🎓 &nbsp; <strong>Computer Engineering Graduate</strong> from CUJAE.</li>
 <li>💼 &nbsp; <strong>3+ years</strong> of professional software development experience.</li>
 <li>❤️ &nbsp; <strong>Passionate</strong> about front-end &amp; new tech &amp; learning.</li>
 <li>🌱 &nbsp; Currently exploring <strong>cutting-edge web technologies</strong> and <strong>AI integration</strong></li>
 <li>🤝🏻 &nbsp; Open to <strong>collaborations</strong> on innovative projects.</li>
+</ul>
 
 # <!-- BOX PARA LA CAJA DE CODIGO -->
 
@@ -66,12 +67,14 @@
 
 <h3 class="heading-element" dir="auto"> 🛠 Tech Skills </h3>
 
-<li>💻 C# | Java | C++ | Python | Go | HTML | CSS | JavaScript | TypeScript | Vue | Nuxt | React | Next | Astro | Svelte</li>
-<li>💻 &.NET framework | ASP.NET Core | MySQL | PostgreSQL | MongoDB | Node.js | Express.js | REST | GraphQL | Docker</li>
-<li>☁️ Vercel | CI/CD | Supabase | AWS | Firebase | Cloudflare</li>
-<li>⚙️ Visual Studio Code | Visual Studio | pnpm | Git | Github</li>
-<li>🎨 Tailwind | Motion | Figma | Material icons | Canva | Framer</li>
-
+<ul dir="auto">
+<li>💻 &nbsp; C# | Java | C++ | Python | Go | HTML | CSS | JavaScript | TypeScript | Vue | Nuxt | React | Next | Astro | Svelte</li>
+<li>💻 &nbsp; &.NET framework | ASP.NET Core | MySQL | PostgreSQL | MongoDB | Node.js | Express.js | REST | GraphQL | Docker</li>
+<li>☁️ &nbsp; Vercel | CI/CD | Supabase | AWS | Firebase | Cloudflare</li>
+<li>⚙️ &nbsp; Visual Studio Code | Visual Studio | pnpm | Git | Github</li>
+<li>🎨 &nbsp; Tailwind | Motion | Figma | Material icons | Canva | Framer</li>
+</ul>
+  
 <hr></hr>
 
 <h3 class="heading-element" dir="auto"> 📊 GitHub Stats </h3>
