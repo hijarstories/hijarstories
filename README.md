@@ -7,8 +7,7 @@
 <a href="https://linktr.ee/hijarstories" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/PORTOLIO-LEO.CORP-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white&logoSize=auto&labelColor=grey&color=lightslategray"></a> <a href="https://www.linkedin.com/in/luishijars/" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/CONNECT-LINKEDIN-brightgreen?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&labelColor=grey&color=blue"></a>
 <a href="https://t.me/hijarstories" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/CHAT-TELEGRAM-brightgreen?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto&labelColor=grey&color=%23007fff"></a> <a href="mailto:leonardhijar@gmail.com" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/CONTACT-EMAIL-brightgreen?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&labelColor=grey&color=red"></a>
 
-
-<animated-image data-catalyst="" style="float: right; width: 200px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ac6ed34c5a02f4206c4a696a0eb1883ed121e60c26fbe958eeb88c19649c7966/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f587935346f583537304978576e4149356e522f67697068792e676966" data-target="animated-image.originalLink"><img align="right" alt="GIF" height="190px" src="https://camo.githubusercontent.com/ac6ed34c5a02f4206c4a696a0eb1883ed121e60c26fbe958eeb88c19649c7966/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f587935346f583537304978576e4149356e522f67697068792e676966" data-canonical-src="https://media.giphy.com/media/Xy54oX570IxWnAI5nR/giphy.gif" style="max-width: 100%; height: auto; max-height: 190px; display: inline-block;" data-target="animated-image.originalImage"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=1000&color=8ECCFA&width=600&lines=Welcome+to+my+GitHub!;5%2B+Years+of+Software+Development;Building+Beautiful+Web+Experiences;Always+Learning+New+Technologies;Botame+tu+GAAAAAAAAAAAAAAA!" alt="Typing SVG" /></a>
 
 #
 
@@ -69,9 +68,9 @@ const WhatDrivesMe = {
 
 <center> 
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hijarstories&theme=soft-green)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hijarstories&theme=gotham&hide_border=true&border_radius=0" alt="GitHub Streak" /></a>
 
-[![Leonard's Corporation github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hijarstories&theme=github-compact)](https://github.com/hijarstories/github-readme-activity-graph)
+[![Leonard's Corporation github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hijarstories&theme=github-compact)](https://github.com/hijarstories)
 
 </center>
 
