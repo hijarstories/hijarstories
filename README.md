@@ -1,7 +1,5 @@
 <h3 class="heading-element" dir="auto"> Hi there 👋🏼 </h3>
-
 <h2 class="heading-element" dir="auto"> I'm Leonard de la Paz Portal 👨‍💻 </h2>
-
 <h3 class="heading-element" dir="auto"> Software Engineer | Frontend Developer | Tech Enthusias </h3>
 
 <a href="https://linktr.ee/hijarstories" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/PORTOLIO-LEO.CORP-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white&logoSize=auto&labelColor=grey&color=lightslategray"></a> <a href="https://www.linkedin.com/in/luishijars/" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/CONNECT-LINKEDIN-brightgreen?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&labelColor=grey&color=blue"></a>
@@ -27,6 +25,8 @@
 
 <hr></hr>
 
+<img align="right" alt="GIF" height="110px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTlsanhja3BhZXk5d3A1Z2lucDdwZHNvdnBoZDhsdGcwYzBjN25ueSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/kJ1iL1ZQIyibu/200.webp">
+
 <h3 class="heading-element" dir="auto"> 🤓 About Me </h3>
 <ul dir="auto">
 <li>⭐ &nbsp; <strong>Web developer</strong> expert in JavaScript.</li>
@@ -37,7 +37,7 @@
 <li>🤝🏻 &nbsp; Open to <strong>collaborations</strong> on innovative projects.</li>
 </ul>
 
-# <!-- BOX PARA LA CAJA DE CODIGO -->
+<!-- BOX PARA LA CAJA DE CODIGO -->
 
 ```javascript
 const WhatDrivesMe = {
