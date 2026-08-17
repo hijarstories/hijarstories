@@ -3,10 +3,7 @@
 <h3 class="heading-element" dir="auto"> Software Engineer | Frontend Developer | Tech Enthusias </h3>
 
 <a href="https://linktr.ee/hijarstories" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/PORTOLIO-LEO.CORP-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white&logoSize=auto&labelColor=grey&color=lightslategray"></a> <a href="https://www.linkedin.com/in/luishijars/" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/CONNECT-LINKEDIN-brightgreen?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&labelColor=grey&color=blue"></a>
-<a href="https://t.me/hijarstories" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/CHAT-TELEGRAM-brightgreen?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto&labelColor=grey&color=%23007fff"></a> <a href="mailto:leonardhijar@gmail.com" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/CONTACT-EMAIL-brightgreen?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&labelColor=grey&color=red"></a>
-
-<br>
-<br>
+<a href="https://t.me/hijarstories" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/CHAT-TELEGRAM-brightgreen?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto&labelColor=grey&color=%23007fff"></a> <a href="mailto:leonardhijar@gmail.com" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/CONTACT-EMAIL-brightgreen?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&labelColor=grey&color=red"></a><br><br>
 
 <!-- GIFT DE MI PREFERENCIA -->
 
