@@ -48,7 +48,7 @@ const WhatDrivesMe = {
 };
 ```
 
-# <!-- BOX PARA LA CAJA DE CODIGO -->
+<!-- BOX PARA LA CAJA DE CODIGO -->
 
 <hr></hr>
 
@@ -66,15 +66,11 @@ const WhatDrivesMe = {
 
 <h3 class="heading-element" dir="auto"> 📊 GitHub Stats </h3>
 
-<center> 
-  
+<div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hijarstories&theme=gotham&hide_border=true&border_radius=0" alt="GitHub Streak" /></a>
 
-[![Leonard's Corporation github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hijarstories&theme=github-compact)](https://github.com/hijarstories)
-
-</center>
-
-###
+[![Leonard's Corporation github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hijarstories&theme=github-compact&hide_border=true)](https://github.com/hijarstories)
+</div>
 
 <hr></hr>
 
@@ -93,7 +89,12 @@ I'm always excited to collaborate on interesting projects or discuss new technol
 
 *"The best way to predict the future is to create it."*
 
+<img alt="Static Badge" src="https://img.shields.io/badge/FOLLOWERS-750k-brightgreen?style=for-the-badge&logo=x&logoColor=white&logoSize=auto&labelColor=grey&color=red">
+<img alt="Static Badge" src="https://img.shields.io/badge/STARS-5,200-brightgreen?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&labelColor=grey&color=%232CC9C3">
+<img alt="Static Badge" src="https://img.shields.io/badge/PROFILE%20VIEWS-1.5M-brightgreen?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&labelColor=grey&color=darkgrey">
+
 *Made with 💜 by <a href="https://github.com/hijarstories">Leonard Cárdenas</a>*
+
 </div>
 
 
