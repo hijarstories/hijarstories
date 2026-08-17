@@ -99,7 +99,3 @@ I'm always excited to collaborate on interesting projects or discuss new technol
 *Made with 💜 by <a href="https://github.com/hijarstories">Leonard Cárdenas</a>*
 
 </div>
-
-
-
-
