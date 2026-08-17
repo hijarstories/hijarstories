@@ -1,4 +1,4 @@
-<h2 class="heading-element" dir="auto"> Hi everyone 🖖🏼 </h2>
+<h3 class="heading-element" dir="auto"> Hi everyone 🖖🏼 </h3>
 <h2 class="heading-element" dir="auto"> I'm Leonard Cárdenas 👨‍💻☕ </h2>
 <h3 class="heading-element" dir="auto"> Software Engineer | Frontend Developer | Tech Enthusiast </h3>
 
