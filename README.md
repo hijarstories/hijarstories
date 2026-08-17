@@ -5,7 +5,10 @@
 <a href="https://linktr.ee/hijarstories" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/PORTOLIO-LEO.CORP-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white&logoSize=auto&labelColor=grey&color=lightslategray"></a> <a href="https://www.linkedin.com/in/luishijars/" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/CONNECT-LINKEDIN-brightgreen?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&labelColor=grey&color=blue"></a>
 <a href="https://t.me/hijarstories" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/CHAT-TELEGRAM-brightgreen?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto&labelColor=grey&color=%23007fff"></a> <a href="mailto:leonardhijar@gmail.com" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/CONTACT-EMAIL-brightgreen?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&labelColor=grey&color=red"></a>
 
-# <!-- GIFT DE MI PREFERENCIA -->
+<br>
+<br>
+
+<!-- GIFT DE MI PREFERENCIA -->
 
 <img align="right" alt="GIF" height="120px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2R5enNnMGs4bXIxaXh4MnV4dWpsZHNmYzJxZjJkd2RsbGJ2OXk1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dZX3AduGrY3uJ7qCsx/giphy.gif">
 
