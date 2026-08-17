@@ -89,9 +89,13 @@ I'm always excited to collaborate on interesting projects or discuss new technol
 
 *"The best way to predict the future is to create it."*
 
+<br>
+
 <img alt="Static Badge" src="https://img.shields.io/badge/FOLLOWERS-750k-brightgreen?style=for-the-badge&logo=x&logoColor=white&logoSize=auto&labelColor=grey&color=red">
 <img alt="Static Badge" src="https://img.shields.io/badge/STARS-5,200-brightgreen?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&labelColor=grey&color=%232CC9C3">
 <img alt="Static Badge" src="https://img.shields.io/badge/PROFILE%20VIEWS-1.5M-brightgreen?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&labelColor=grey&color=darkgrey">
+
+<br>
 
 *Made with 💜 by <a href="https://github.com/hijarstories">Leonard Cárdenas</a>*
 
