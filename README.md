@@ -90,7 +90,9 @@ I'm always excited to collaborate on interesting projects or discuss new technol
 <div align="center">
 <h3> 📡 Thank you for visiting! 📡</h3>
 
-*"The best way to predict the future is to create it."* <br>
+*"The best way to predict the future is to create it."* 
+
+<br>
 
 <img alt="Static Badge" src="https://img.shields.io/badge/FOLLOWERS-750k-brightgreen?style=for-the-badge&logo=x&logoColor=white&logoSize=auto&labelColor=grey&color=red">
 <img alt="Static Badge" src="https://img.shields.io/badge/STARS-5,237-brightgreen?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&labelColor=grey&color=%232CC9C3">
