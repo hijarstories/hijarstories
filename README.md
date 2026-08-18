@@ -83,15 +83,15 @@ I'm always excited to collaborate on interesting projects or discuss new technol
 <a href="https://linktr.ee/hijarstories" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/PORTOLIO-LEO.CORP-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white&logoSize=auto&labelColor=grey&color=lightslategray"></a> <a href="https://linktr.ee/hijarstories" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/READ MY ARTICLES-BLOG-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white&logoSize=auto&labelColor=grey&color=lightslategray"></a>
 <a href="https://discord.gg/VvyKbRYVe" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/CHAT-DISCORD-brightgreen?style=for-the-badge&logo=discord&logoColor=white&logoSize=auto&labelColor=grey&color=%235865F2"> <a href="mailto:leonardhijar@gmail.com" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/GET IN TOUCH-EMAIL-brightgreen?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&labelColor=grey&color=red"></a>
 
-<hr></hr>
+<hr></hr><br>
 
 <div align="center">
 <h3> 📡 Thank you for visiting! 📡</h3>
 
-*"The best way to predict the future is to create it."* <br><br>
+*"The best way to predict the future is to create it."* <br>
 
 <img alt="Static Badge" src="https://img.shields.io/badge/FOLLOWERS-750k-brightgreen?style=for-the-badge&logo=x&logoColor=white&logoSize=auto&labelColor=grey&color=red">
-<img alt="Static Badge" src="https://img.shields.io/badge/STARS-5,200-brightgreen?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&labelColor=grey&color=%232CC9C3">
+<img alt="Static Badge" src="https://img.shields.io/badge/STARS-5,237-brightgreen?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&labelColor=grey&color=%232CC9C3">
 <img alt="Static Badge" src="https://img.shields.io/badge/PROFILE%20VIEWS-1.5M-brightgreen?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&labelColor=grey&color=darkgrey"> <br><br>
 
 *Made with 💜 by <a href="https://github.com/hijarstories">Leonard Cárdenas</a>*
