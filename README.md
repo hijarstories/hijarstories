@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" height="100px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2k2ZGRhdHptbTJjNTBpNTl5OXJtNDAyem4xYmo4eWx1Ymk3N3RpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UqxVRm1IaaIGk/giphy.gif">
 
 <h3 class="heading-element" dir="auto"> Hi everyone 🖖🏼 </h3>
-<h2 class="heading-element" dir="auto"> I'm Leonard Cárdenas 👨‍💻☕ </h2> <hr></hr><br>
+<h2 class="heading-element" dir="auto"> I'm Leonard Cárdenas 👨‍💻☕ </h2> <hr></hr><hr></hr>
 <h3 class="heading-element" dir="auto"> Software Engineer | Frontend Developer | Tech Enthusiast </h3>
 
 <a href="https://linktr.ee/hijarstories" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/PORTOLIO-LEO.CORP-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white&logoSize=auto&labelColor=grey&color=lightslategray"></a> <a href="https://www.linkedin.com/in/luishijars/" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/CONNECT-LINKEDIN-brightgreen?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&labelColor=grey&color=blue"></a>
