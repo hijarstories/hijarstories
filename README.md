@@ -85,9 +85,9 @@ I'm always excited to collaborate on interesting projects or discuss new technol
 <a href="https://linktr.ee/hijarstories" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/PORTOLIO-LEO.CORP-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white&logoSize=auto&labelColor=grey&color=lightslategray"></a> <a href="https://linktr.ee/hijarstories" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/READ MY ARTICLES-BLOG-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white&logoSize=auto&labelColor=grey&color=lightslategray"></a>
 <a href="https://discord.gg/VvyKbRYVe" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/CHAT-DISCORD-brightgreen?style=for-the-badge&logo=discord&logoColor=white&logoSize=auto&labelColor=grey&color=%235865F2"> <a href="mailto:leonardhijar@gmail.com" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/GET IN TOUCH-EMAIL-brightgreen?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&labelColor=grey&color=red"></a>
 
-<hr></hr><hr></hr>
+<hr></hr><hr></hr> 
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
 <h3> 📡 Thank you for visiting! 📡</h3>
 
 *"The best way to predict the future is to create it."* 
