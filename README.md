@@ -1,5 +1,5 @@
 <h3 class="heading-element" dir="auto"> Hi everyone 🖖🏼 </h3>
-<h2 class="heading-element" dir="auto"> I'm Leonard Cárdenas 👨‍💻☕ </h2>
+<h2 class="heading-element" dir="auto"> I'm Leonard Cárdenas 👨‍💻☕ </h2> <hr></hr>
 <h3 class="heading-element" dir="auto"> Software Engineer | Frontend Developer | Tech Enthusiast </h3>
 
 <a href="https://linktr.ee/hijarstories" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/PORTOLIO-LEO.CORP-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white&logoSize=auto&labelColor=grey&color=lightslategray"></a> <a href="https://www.linkedin.com/in/luishijars/" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/CONNECT-LINKEDIN-brightgreen?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&labelColor=grey&color=blue"></a>
@@ -83,7 +83,7 @@ I'm always excited to collaborate on interesting projects or discuss new technol
 <a href="https://linktr.ee/hijarstories" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/PORTOLIO-LEO.CORP-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white&logoSize=auto&labelColor=grey&color=lightslategray"></a> <a href="https://linktr.ee/hijarstories" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/READ MY ARTICLES-BLOG-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white&logoSize=auto&labelColor=grey&color=lightslategray"></a>
 <a href="https://discord.gg/VvyKbRYVe" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/CHAT-DISCORD-brightgreen?style=for-the-badge&logo=discord&logoColor=white&logoSize=auto&labelColor=grey&color=%235865F2"> <a href="mailto:leonardhijar@gmail.com" rel="nofollow"><img alt="Static Badge" src="https://img.shields.io/badge/GET IN TOUCH-EMAIL-brightgreen?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&labelColor=grey&color=red"></a>
 
-<hr></hr>
+<hr></hr><br>
 
 <div align="center">
 <h3> 📡 Thank you for visiting! 📡</h3>
